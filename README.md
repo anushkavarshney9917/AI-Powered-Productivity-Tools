@@ -1,6 +1,6 @@
 # Prompt-a-thon
 
-A Next.js 16 application for AI-assisted task and workflow management with Supabase-backed auth and data.
+A Next.js 16 demo MVP for AI-assisted task and workflow management with Supabase-backed auth and data.
 
 ## UI/UX Showcase
 
@@ -10,16 +10,17 @@ This project demonstrates:
 - Clear visual hierarchy with reusable UI components.
 - Consistent spacing, typography, and component structure.
 - Smooth user flows across authentication and product pages.
+- MVP-first product thinking with a focused, demo-ready scope.
 
 ### Screenshots
 
-| Landing                                                        | Dashboard                                                        |
-| -------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![Landing UI](./screenshot/screenshot-2026-03-01-11-38-44.png) | ![Dashboard UI](./screenshot/screenshot-2026-03-01-11-38-50.png) |
+| Landing                                                        | Feature: Dashboard                                                       |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| ![Landing UI](./screenshot/screenshot-2026-03-01-11-38-44.png) | ![Feature Dashboard UI](./screenshot/screenshot-2026-03-01-11-38-50.png) |
 
-| Features                                                        | Pricing                                                        |
-| --------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![Features UI](./screenshot/screenshot-2026-03-01-11-38-59.png) | ![Pricing UI](./screenshot/screenshot-2026-03-01-11-39-09.png) |
+| How It Works                                                        | Pricing                                                        |
+| ------------------------------------------------------------------- | -------------------------------------------------------------- |
+| ![How It Works UI](./screenshot/screenshot-2026-03-01-11-38-59.png) | ![Pricing UI](./screenshot/screenshot-2026-03-01-11-39-09.png) |
 
 ![Settings UI](./screenshot/screenshot-2026-03-01-11-39-15.png)
 
